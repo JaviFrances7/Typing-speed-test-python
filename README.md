@@ -27,3 +27,15 @@ Aplicación de escritorio desarrollada en Python que permite medir la velocidad 
 1. Ejecuta la aplicación:
 ```bash
 python main.py
+```
+
+---
+
+**👤 Autor**
+
+Proyecto desarrollado por Javier Frances
+
+GitHub: JaviFrances7
+
+LinkedIn: https://es.linkedin.com/in/javier-frances-sanz
+
